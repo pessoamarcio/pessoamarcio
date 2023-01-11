@@ -1,5 +1,5 @@
 ## Olá, sou Márcio Pessôa!
-  - Atualmente trabalho como Analista em formação Back End em um banco 🏦 e estudo 📔 para futuramente ser júnior.
+  - Atualmente trabalho como Analista em formação Back End em um grande banco 🏦 e estudo 📔 para futuramente ser júnior.
 <div align="center">
   <a href="https://github.com/pessoamarcio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pessoamarcio&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
