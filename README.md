@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/m%C3%A1rcio-pess%C3%B4a-617985144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-![](https://github.com/pessoamarcio/snk/raw/output/github-contribution-grid-snake.svg)
+
