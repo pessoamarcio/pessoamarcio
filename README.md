@@ -13,7 +13,9 @@
   <img align="center" alt="Pes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Pes-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img align="center" alt="Pes-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</div>
+  <img align="center" alt="Pes-Js" height="30" width="40" src="https://icongr.am/devicon/csharp-line.svg?size=128&color=currentColor">
+  </div>
+  
   
   ##
  
